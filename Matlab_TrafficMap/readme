@@ -1,6 +1,6 @@
 
 
-This collection of files requires the list of routes, with each roue contained within a json file. 
+This collection of files requires the list of routes, with each route contained as a sequence of gps pings within a json file. 
 
 The data can then be extracted into indvidual .mat files using the IspectData file, then sorted using the SavRelevantData ile. 
 
